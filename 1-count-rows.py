@@ -19,4 +19,4 @@ def count_rows(table):
 #-------------------------------------------------------------------------------------#
 if __name__ == "__main__":
     count_rows("cloud1.visit")    
-    # count_rows("cloud1.links")    
+    count_rows("cloud1.links1")    
